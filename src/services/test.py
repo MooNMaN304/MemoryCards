@@ -32,8 +32,3 @@ class TestService:
                                interval=new_test['interval'], 
                                )
 
-
-
-
-
-    
